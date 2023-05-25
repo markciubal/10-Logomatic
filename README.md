@@ -1,6 +1,8 @@
 # 10-Logomatic
-  
-[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
+https://github.com/markciubal/10-Logomatic/assets/1228604/c90a5b33-2dde-4ce3-af9a-306bc09f43bc
+
+[![Liense: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 ## Table of Contents
 - [Descrption](#description)
 - [Installation](#installation)
